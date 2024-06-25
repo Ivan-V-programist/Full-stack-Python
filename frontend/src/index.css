@@ -1,7 +1,3 @@
-th {
-  margin: 100px;
-} 
-
-tr {
-  margin: 200px;
+input, button, label {
+  margin-top: 10px;
 }
