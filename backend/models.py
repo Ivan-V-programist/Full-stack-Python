@@ -14,3 +14,4 @@ class Contact(dataBase.Model):
             "lastName": self.lastName,
             "email": self.email
         }
+#idk but it doesnt work now
